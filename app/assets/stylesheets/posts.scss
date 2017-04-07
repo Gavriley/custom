@@ -1,0 +1,25 @@
+// Place all the styles related to the posts controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.text-left {
+  background-color: #f1f1f1;
+}
+
+#destroy_field {
+  position: relative;
+  left: 325px;
+  bottom: 25px;
+  color: red;
+}
+
+#sort_roles {
+  margin-left: 10px;
+
+  #destroy_role {
+    position: relative;
+    float: left;
+    color: red;
+    right: 10px;
+  }
+}
